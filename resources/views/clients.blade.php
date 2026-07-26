@@ -16,10 +16,10 @@
     </section>
 
     <!-- Our Client Overview -->
-    <section class="section clients bg-darker">
+    <section class="section clients">
         <div class="container text-center">
             <h2 class="section-title mb-4">Our Client</h2>
-            <p class="section-text mx-auto mb-5" style="max-width: 1000px;">
+            <p class="text-muted mx-auto mb-5" style="max-width: 900px;">
                 We are deeply committed to serving our clients with unwavering dedication and professionalism. We understand that in the fast-paced digital world, meeting deadlines is not just a goal—it’s a responsibility. That’s why we prioritize timely delivery in every project, ensuring our clients can rely on us to move their businesses forward without delay. Beyond technical excellence, we value the trust our clients place in us. We recognize that every project represents more than just a business need—it reflects their vision, emotion, and time. By combining cutting-edge technology with a client-centric approach, we strive to build lasting relationships founded on respect, transparency, and results.
             </p>
             <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x-636x1024.png" alt="Our Client" class="img-fluid mx-auto" style="max-height: 600px; width: auto;">

@@ -1,4 +1,3 @@
-<!-- Our Team Section -->
 <section class="section our-team">
     <div class="container text-center">
         <h2 class="section-title mb-4">Our Team</h2>
