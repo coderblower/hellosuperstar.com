@@ -232,3 +232,12 @@ h1, h2, h3 {
     width: 30px;
     text-align: center;
 }
+
+/* Lazy Loading Image Classes */
+.lazy-image {
+    filter: blur(10px);
+    transition: filter 0.5s ease-in-out;
+}
+.lazy-image.loaded {
+    filter: blur(0);
+}

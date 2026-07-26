@@ -2,7 +2,7 @@
     <div class="container flex" style="justify-content: space-between; align-items: center; width: 100%;">
         <div class="site-logo">
             <a href="{{ route('home') }}">
-                <img src="/assets/images/Hello-Superstars-png-Logo-150x150.png" alt="Hello Superstar Logo">
+                <img class="lazy-image" src="/assets/images/Hello-Superstars-png-Logo-150x150-min.png" data-src="/assets/images/Hello-Superstars-png-Logo-150x150.png" alt="Hello Superstar Logo">
             </a>
         </div>
         <nav class="site-nav">

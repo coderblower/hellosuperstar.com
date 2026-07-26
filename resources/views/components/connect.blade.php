@@ -35,7 +35,7 @@
         </div>
         
         <div class="contact-image">
-            <img src="/assets/images/Asset-2@3x-1.png" alt="Office Building" style="max-width: 100%; border-radius: 8px;">
+            <img class="lazy-image" src="/assets/images/Asset-2@3x-1-min.png" data-src="/assets/images/Asset-2@3x-1.png" alt="Office Building" style="max-width: 100%; border-radius: 8px;">
         </div>
     </div>
 </section>
