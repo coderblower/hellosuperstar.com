@@ -8,11 +8,11 @@
         <div class="grid grid-2 mt-5">
             <div class="team-stat text-center">
                 <h3 class="mb-4">Skills Composition of our Engineers:</h3>
-                <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-27@3x-768x658.png" alt="Skills Composition" class="img-fluid mx-auto" style="max-height: 400px;">
+                <img src="/assets/images/Asset-27@3x-768x658.png" alt="Skills Composition" class="img-fluid mx-auto" style="max-height: 400px;">
             </div>
             <div class="team-stat text-center">
                 <h3 class="mb-4">Engineering Team's Experience Level:</h3>
-                <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-26@3x.png" alt="Experience Level" class="img-fluid mx-auto" style="max-height: 400px;">
+                <img src="/assets/images/Asset-26@3x.png" alt="Experience Level" class="img-fluid mx-auto" style="max-height: 400px;">
             </div>
         </div>
     </div>

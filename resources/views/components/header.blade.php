@@ -2,7 +2,7 @@
     <div class="container flex" style="justify-content: space-between; align-items: center; width: 100%;">
         <div class="site-logo">
             <a href="{{ route('home') }}">
-                <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Hello-Superstars-png-Logo-150x150.png" alt="Hello Superstar Logo">
+                <img src="/assets/images/Hello-Superstars-png-Logo-150x150.png" alt="Hello Superstar Logo">
             </a>
         </div>
         <nav class="site-nav">

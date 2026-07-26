@@ -45,7 +45,7 @@
                     <p>Let us help you build a dedicated, creative, and diverse virtual team—tailored precisely to your goals.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/01.jpg" alt="Tech Talent">
+                    <img src="/assets/images/01.jpg" alt="Tech Talent">
                 </div>
             </div>
 
@@ -60,7 +60,7 @@
                     <p>The product development process involves multiple steps that require expert attention to launch a successful product. Get a 30-minute free consultation with our product managers by requesting a quote today!</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-18@3x-1016x1024.png" alt="Product Engineering">
+                    <img src="/assets/images/Asset-18@3x-1016x1024.png" alt="Product Engineering">
                 </div>
             </div>
 
@@ -75,7 +75,7 @@
                     <p>We build smart apps powered by emerging technologies, including AI, ML, and Blockchain. Our team specializes in action-oriented, data-driven applications that not only delight users but also drive significant revenue for our clients. Let us build something exceptional for you — request a quote now!</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-17@3x-1017x1024.png" alt="Mobile Applications">
+                    <img src="/assets/images/Asset-17@3x-1017x1024.png" alt="Mobile Applications">
                 </div>
             </div>
 
@@ -88,7 +88,7 @@
                     <p>Our web design and development is the most significant part of our organization, and from building small business websites to creating large portals, we have done it all. We believe in the power of clean and responsive design and like to work closely with clients to figure out their brand aesthetics and philosophy. Another essential aspect of good website design and development is page speed optimization. We have optimization experts on our team who can not only help with your new website projects but also help improve your existing websites. We have an exceptionally creative content team that can advise not only on the website copy but on your overall footprint. Also, we love building chatbots! Talk to our web experts. Request a quote now!</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-16@3x-1017x1024.png" alt="Web Design & Development">
+                    <img src="/assets/images/Asset-16@3x-1017x1024.png" alt="Web Design & Development">
                 </div>
             </div>
 
@@ -99,7 +99,7 @@
                     <p>Every organization needs to invest in cybersecurity to protect its digital assets. Our experts can help in assessing your current security measures as well as build and manage up-to-date and accurate cybersecurity plans. Our approach is to create a 360-degree plan to cover all aspects of an organization's security needs. The information security policies must align with the business goals, and your data and business are always safe from cybersecurity incidents and attacks. Our team is available for a quick consultation call. Get in touch here.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-15@3x-1017x1024.png" alt="Cybersecurity Services">
+                    <img src="/assets/images/Asset-15@3x-1017x1024.png" alt="Cybersecurity Services">
                 </div>
             </div>
 
@@ -116,7 +116,7 @@
                     <p>At our core, we believe in responsible AI development. This means prioritizing ethical considerations and data privacy throughout the entire process. We implement robust security measures to ensure that your data remains safe and confidential and is not utilized in any internal or external project.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-14@3x-1018x1024.png" alt="AI Consultation">
+                    <img src="/assets/images/Asset-14@3x-1018x1024.png" alt="AI Consultation">
                 </div>
             </div>
 
@@ -127,7 +127,7 @@
                     <p>It is imperative for businesses to quickly return to the same operating capacity after an unforeseen incident, like a disaster or a cyberattack. Business continuity is an organization's plan to function without having all of its resources (limp-along plan). Business Continuation in case of disasters or downtime can be a game-changer for your business, where high availability means more revenue. Our team can set up backup and disaster recovery plans and procedures to ensure that downtimes and data losses become a thing of the past. From mirroring data in real-time to reducing the recovery time, let us showcase our expertise in providing Disaster Recovery as a Service (DRaaS). Read our latest case study here. Our experts are here to help!</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-13@3x-1018x1024.png" alt="Business Continuity">
+                    <img src="/assets/images/Asset-13@3x-1018x1024.png" alt="Business Continuity">
                 </div>
             </div>
 
@@ -138,7 +138,7 @@
                     <p>We have built our expertise in providing both Web Hosting and Dedicated Virtual Servers. Our team of experts is always available to get on a call and help you choose the right plan for your hosting needs. We will help you set it up and provide you with assistance whenever you need to ensure that your applications stay up and running all the time! We have multiple plans available that cater to our client base. If you are not sure about which hosting plan is the right one for you, we are happy to book a call and advice. Our team also has expertise in deploying, managing, and scaling applications using Amazon Web Services. We can take complete ownership of setting up, monitoring, and protecting your applications on AWS by providing 24/7 technical assistance and customer support so that you can only focus on growing your business.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-12@3x-1018x1024.png" alt="Managed Hosting">
+                    <img src="/assets/images/Asset-12@3x-1018x1024.png" alt="Managed Hosting">
                 </div>
             </div>
 
@@ -151,7 +151,7 @@
                     <p>Talk to our Technical SEO and SEM experts today and let them fix your website so you receive more traffic and generate more revenue.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-11@3x-1018x1024.png" alt="Technical SEO">
+                    <img src="/assets/images/Asset-11@3x-1018x1024.png" alt="Technical SEO">
                 </div>
             </div>
 
@@ -168,7 +168,7 @@
                     <p>We use a comprehensive approach and evaluate your site to identify areas that need improvement. From text size and color contrast to navigation and form usability, we focus on enhancing elements that directly impact SEO, user experience, and overall site engagement.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-10@3x-1018x1024.png" alt="Web Accessibility">
+                    <img src="/assets/images/Asset-10@3x-1018x1024.png" alt="Web Accessibility">
                 </div>
             </div>
 
@@ -179,7 +179,7 @@
                     <p>Are you looking for a logo for your new venture or want to rebrand your existing business? From digital to print assets, we have developed brand identities and created marketing and social media collateral for numerous local and international clients with speed and finesse. Let our designers help you in getting a unique and creative statement for your business. We enjoy working with clients who are up for creativity and experimentation. Let us help you discover your brand's aesthetics and build something that sticks. Let's connect and talk about your branding needs!</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-8@3x-e1745322088144-768x1043.png" alt="Brand Identity">
+                    <img src="/assets/images/Asset-8@3x-e1745322088144-768x1043.png" alt="Brand Identity">
                 </div>
             </div>
 
@@ -196,7 +196,7 @@
                     <p>Talk to our content experts today and have them create something that brings in absolute results for your business.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-17@3x-1017x1024.png" alt="Content Marketing">
+                    <img src="/assets/images/Asset-17@3x-1017x1024.png" alt="Content Marketing">
                 </div>
             </div>
 

@@ -22,7 +22,7 @@
             <p class="text-muted mx-auto mb-5" style="max-width: 900px;">
                 We are deeply committed to serving our clients with unwavering dedication and professionalism. We understand that in the fast-paced digital world, meeting deadlines is not just a goal—it’s a responsibility. That’s why we prioritize timely delivery in every project, ensuring our clients can rely on us to move their businesses forward without delay. Beyond technical excellence, we value the trust our clients place in us. We recognize that every project represents more than just a business need—it reflects their vision, emotion, and time. By combining cutting-edge technology with a client-centric approach, we strive to build lasting relationships founded on respect, transparency, and results.
             </p>
-            <img src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x-636x1024.png" alt="Our Client" class="img-fluid mx-auto" style="max-height: 600px; width: auto;">
+            <img src="/assets/images/Asset-7@3x-636x1024.png" alt="Our Client" class="img-fluid mx-auto" style="max-height: 600px; width: auto;">
         </div>
     </section>
 
@@ -36,7 +36,7 @@
                     <p>Company registered and licensed in the United Kingdom. We have developed the entire technology platform for the Hello superstars app.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/05/Hello-Superstars-png-Logo1.png" alt="Hello Superstars Universe Limited" style="max-height: 250px; width: auto;">
+                    <img src="/assets/images/Hello-Superstars-png-Logo1.png" alt="Hello Superstars Universe Limited" style="max-height: 250px; width: auto;">
                 </div>
             </div>
 
@@ -47,7 +47,7 @@
                     <p>We have developed end to end e -wallet technology for Pocket Pay SDN BHD Malaysia</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/05/Pocket-Pay-Vertical-Logo.png" alt="Pocket Pay SDN BHD Malaysia" style="max-height: 250px; width: auto;">
+                    <img src="/assets/images/Pocket-Pay-Vertical-Logo.png" alt="Pocket Pay SDN BHD Malaysia" style="max-height: 250px; width: auto;">
                 </div>
             </div>
 
@@ -58,7 +58,7 @@
                     <p>Pocket Pay is a secure fintech platform enabling easy money transfers, bill payments, and mobile recharges for expats and unbanked users.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/05/swiftlink-with-name-1024x530.png" alt="Swiftlink Payment Services UAE" style="max-height: 200px; width: auto;">
+                    <img src="/assets/images/swiftlink-with-name-1024x530.png" alt="Swiftlink Payment Services UAE" style="max-height: 200px; width: auto;">
                 </div>
             </div>
 
@@ -69,7 +69,7 @@
                     <p>MEDICA is a cloud-based platform that streamlines patient registration, diagnosis, and digital prescriptions for doctors and pharmacies.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/05/Mobios-Logo.png" alt="Mobios Limited, Srilanka" style="max-height: 150px; width: auto;">
+                    <img src="/assets/images/Mobios-Logo.png" alt="Mobios Limited, Srilanka" style="max-height: 150px; width: auto;">
                 </div>
             </div>
 
@@ -80,7 +80,7 @@
                     <p>Migration Governance Eco System (mGES), a comprehensive platform designed to revolutionize the recruitment process and ensure the welfare of foreign workers. Our vision for mGES aligns seamlessly with principles of ethical governance, transparency, and justice.</p>
                 </div>
                 <div class="service-feature-image">
-                    <img src="https://hellosuperstar.com/wp-content/uploads/2025/05/Verstilo-London-Ltd-Logo.png" alt="Versatilo London Ltd" style="max-height: 250px; width: auto;">
+                    <img src="/assets/images/Verstilo-London-Ltd-Logo.png" alt="Versatilo London Ltd" style="max-height: 250px; width: auto;">
                 </div>
             </div>
         </div>

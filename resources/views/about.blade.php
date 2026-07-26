@@ -14,6 +14,8 @@
         </div>
     </section>
 
+    <x-founders />
+    
     <x-services />
     <x-work-with-us />
     <x-partners />
