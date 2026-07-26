@@ -1,0 +1,856 @@
+
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Hello Superstar &#8211; Hello superstar</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="alternate" type="application/rss+xml" title="Hello Superstar &raquo; Feed" href="https://hellosuperstar.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hello Superstar &raquo; Comments Feed" href="https://hellosuperstar.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://hellosuperstar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhellosuperstar.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://hellosuperstar.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhellosuperstar.com%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://hellosuperstar.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.4.1' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='user-registration-general-css' href='https://hellosuperstar.com/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=4.2.4' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='https://hellosuperstar.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.4.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.3' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://hellosuperstar.com/wp-content/uploads/elementor/css/post-7.css?ver=1784710650' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.3' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.3' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.1.3' media='all' />
+<link rel='stylesheet' id='elementor-post-24-css' href='https://hellosuperstar.com/wp-content/uploads/elementor/css/post-24.css?ver=1784710651' media='all' />
+<link rel='stylesheet' id='elementor-post-14-css' href='https://hellosuperstar.com/wp-content/uploads/elementor/css/post-14.css?ver=1784710651' media='all' />
+<link rel='stylesheet' id='elementor-post-129-css' href='https://hellosuperstar.com/wp-content/uploads/elementor/css/post-129.css?ver=1784710651' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://hellosuperstar.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='https://hellosuperstar.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css' href='https://hellosuperstar.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://hellosuperstar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://hellosuperstar.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1745302600' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://hellosuperstar.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1745302606' media='all' />
+<script id="jquery-core-js" src="https://hellosuperstar.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://hellosuperstar.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-js-after">
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
+//# sourceURL=jquery-js-after
+</script>
+<link rel="https://api.w.org/" href="https://hellosuperstar.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://hellosuperstar.com/wp-json/wp/v2/pages/24" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hellosuperstar.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.2" />
+<link rel="canonical" href="https://hellosuperstar.com/" />
+<link rel='shortlink' href='https://hellosuperstar.com/' />
+<meta name="generator" content="Elementor 4.1.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<!-- OceanWP CSS -->
+<style type="text/css">
+/* Colors */body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button,.woocommerce-cart .wp-element-button,.woocommerce-checkout .wp-element-button,.wp-block-button__link{border-color:#ffffff}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active,.woocommerce-cart .wp-element-button:hover,.woocommerce-checkout .wp-element-button:hover,.wp-block-button__link:hover{border-color:#ffffff}/* OceanWP Style Settings CSS */.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-style:solid}.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-width:1px}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-style:solid}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-style:solid}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{border-radius:3px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-radius:3px}/* Header */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}/* Blog CSS */.ocean-single-post-header ul.meta-item li a:hover{color:#333333}/* Typography */body{font-size:14px;line-height:1.8}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{line-height:1.4}h1{font-size:23px;line-height:1.4}h2{font-size:20px;line-height:1.4}h3{font-size:18px;line-height:1.4}h4{font-size:17px;line-height:1.4}h5{font-size:14px;line-height:1.4}h6{font-size:15px;line-height:1.4}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{font-size:32px;line-height:1.4}.page-header .page-subheading{font-size:15px;line-height:1.8}.site-breadcrumbs,.site-breadcrumbs a{font-size:13px;line-height:1.4}#top-bar-content,#top-bar-social-alt{font-size:12px;line-height:1.8}#site-logo a.site-logo-text{font-size:24px;line-height:1.8}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-size:12px;line-height:1.2;letter-spacing:.6px}.sidr-class-dropdown-menu li a,a.sidr-class-toggle-sidr-close,#mobile-dropdown ul li a,body #mobile-fullscreen ul li a{font-size:15px;line-height:1.8}.blog-entry.post .blog-entry-header .entry-title a{font-size:24px;line-height:1.4}.ocean-single-post-header .single-post-title{font-size:34px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header ul.meta-item li,.ocean-single-post-header ul.meta-item li a{font-size:13px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-name,.ocean-single-post-header .post-author-name a{font-size:14px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-description{font-size:12px;line-height:1.4;letter-spacing:.6px}.single-post .entry-title{line-height:1.4;letter-spacing:.6px}.single-post ul.meta li,.single-post ul.meta li a{font-size:14px;line-height:1.4;letter-spacing:.6px}.sidebar-box .widget-title,.sidebar-box.widget_block .wp-block-heading{font-size:13px;line-height:1;letter-spacing:1px}#footer-widgets .footer-box .widget-title{font-size:13px;line-height:1;letter-spacing:1px}#footer-bottom #copyright{font-size:12px;line-height:1}#footer-bottom #footer-bottom-menu{font-size:12px;line-height:1}.woocommerce-store-notice.demo_store{line-height:2;letter-spacing:1.5px}.demo_store .woocommerce-store-notice__dismiss-link{line-height:2;letter-spacing:1.5px}.woocommerce ul.products li.product li.title h2,.woocommerce ul.products li.product li.title a{font-size:14px;line-height:1.5}.woocommerce ul.products li.product li.category,.woocommerce ul.products li.product li.category a{font-size:12px;line-height:1}.woocommerce ul.products li.product .price{font-size:18px;line-height:1}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{font-size:12px;line-height:1.5;letter-spacing:1px}.woocommerce ul.products li.owp-woo-cond-notice span,.woocommerce ul.products li.owp-woo-cond-notice a{font-size:16px;line-height:1;letter-spacing:1px;font-weight:600;text-transform:capitalize}.woocommerce div.product .product_title{font-size:24px;line-height:1.4;letter-spacing:.6px}.woocommerce div.product p.price{font-size:36px;line-height:1}.woocommerce .owp-btn-normal .summary form button.button,.woocommerce .owp-btn-big .summary form button.button,.woocommerce .owp-btn-very-big .summary form button.button{font-size:12px;line-height:1.5;letter-spacing:1px;text-transform:uppercase}.woocommerce div.owp-woo-single-cond-notice span,.woocommerce div.owp-woo-single-cond-notice a{font-size:18px;line-height:2;letter-spacing:1.5px;font-weight:600;text-transform:capitalize}
+</style></head>
+
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-24 wp-embed-responsive wp-theme-oceanwp user-registration-page user-registration-account ehf-header ehf-footer ehf-template-oceanwp ehf-stylesheet-oceanwp oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar has-topbar has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-24" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+					<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://hellosuperstar.com" title="Hello Superstar" rel="home">Hello Superstar</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="14" class="elementor elementor-14">
+				<div class="elementor-element elementor-element-fba0b2e e-con-full e-flex e-con e-parent" data-id="fba0b2e" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-67bcce5 e-con-full e-flex e-con e-child" data-id="67bcce5" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-39f62ab elementor-widget elementor-widget-site-logo" data-id="39f62ab" data-element_type="widget" data-e-type="widget" data-settings="{&quot;space&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;align&quot;:&quot;center&quot;,&quot;width&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;caption_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="site-logo.default">
+				<div class="elementor-widget-container">
+							<div class="hfe-site-logo">
+													<a data-elementor-open-lightbox=""  class='elementor-clickable' href="https://hellosuperstar.com">
+							<div class="hfe-site-logo-set">           
+				<div class="hfe-site-logo-container">
+									<img class="hfe-site-logo-img elementor-animation-"  src="https://hellosuperstar.com/wp-content/uploads/2025/04/Hello-Superstars-png-Logo-150x150.png" alt="Hello-Superstars-png-Logo"/>
+				</div>
+			</div>
+							</a>
+						</div>  
+							</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3189f4c e-con-full e-flex e-con e-child" data-id="3189f4c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f356314 hfe-nav-menu__align-left hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="f356314" data-element_type="widget" data-e-type="widget" data-settings="{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:21,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:21,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
+				<div class="elementor-widget-container">
+								<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
+				<div role="button" class="hfe-nav-menu__toggle elementor-clickable">
+					<span class="screen-reader-text">Menu</span>
+					<div class="hfe-nav-menu-icon">
+						<svg aria-hidden="true"  class="e-font-icon-svg e-fas-align-justify" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"></path></svg>					</div>
+				</div>
+				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;svg aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;e-font-icon-svg e-fas-align-justify&quot; viewBox=&quot;0 0 448 512&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" data-close-icon="&lt;svg aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;e-font-icon-svg e-far-window-close&quot; viewBox=&quot;0 0 512 512&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M464 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm0 394c0 3.3-2.7 6-6 6H54c-3.3 0-6-2.7-6-6V86c0-3.3 2.7-6 6-6h404c3.3 0 6 2.7 6 6v340zM356.5 194.6L295.1 256l61.4 61.4c4.6 4.6 4.6 12.1 0 16.8l-22.3 22.3c-4.6 4.6-12.1 4.6-16.8 0L256 295.1l-61.4 61.4c-4.6 4.6-12.1 4.6-16.8 0l-22.3-22.3c-4.6-4.6-4.6-12.1 0-16.8l61.4-61.4-61.4-61.4c-4.6-4.6-4.6-12.1 0-16.8l22.3-22.3c4.6-4.6 12.1-4.6 16.8 0l61.4 61.4 61.4-61.4c4.6-4.6 12.1-4.6 16.8 0l22.3 22.3c4.7 4.6 4.7 12.1 0 16.8z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" data-full-width="yes">
+					<ul id="menu-1-f356314" class="hfe-nav-menu"><li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item parent hfe-creative-menu"><a href="https://hellosuperstar.com/" class = "hfe-menu-item">Home</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://hellosuperstar.com/about-us/" class = "hfe-menu-item">About</a></li>
+<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://hellosuperstar.com/our-star-team/" class = "hfe-menu-item">Our Team</a></li>
+<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://hellosuperstar.com/our-service/" class = "hfe-menu-item">Our Services</a></li>
+<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://hellosuperstar.com/our-star-clients/" class = "hfe-menu-item">Our Clients</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://hellosuperstar.com/contact-us-1/" class = "hfe-menu-item">contact us</a></li>
+</ul> 
+				</nav>
+			</div>
+							</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</header>
+
+	
+			
+			<main id="main" class="site-main clr"  role="main">
+
+						<div data-elementor-type="wp-page" data-elementor-id="24" class="elementor elementor-24">
+				<div class="elementor-element elementor-element-eb9438a e-con-full e-flex e-con e-parent" data-id="eb9438a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+		<div class="elementor-element elementor-element-9700c0a e-con-full e-flex e-con e-child" data-id="9700c0a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8ee933e elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="8ee933e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Your <span style="color:red"> Trusted </span> Partner in tech</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0214863 e-con-full e-flex e-con e-child" data-id="0214863" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-832b841 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="832b841" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">Hello Superstars Ltd is one of the leading providers of cutting-edge technology solutions, specializing in software development, IT consulting, cloud computing, cybersecurity, and digital transformation.
+
+Founded in 2023, our mission is to empower businesses with innovative and scalable technology that enhances efficiency and drives success. We proudly deliver top-notch services to clients across the globe.
+
+Our team comprises nearly 50 skilled technologists, including designers, developers, testers, project managers, and product managers—each bringing deep expertise in a diverse and modern tech stack. From traditional enterprise applications to intelligent business solutions, we've done it all.
+<br><br>
+
+Currently, we are focused on building several next-generation solutions in the emerging tech space.If you're looking for an agile, diverse, and value-driven team committed to long-term technology partnerships, Hello Supers Ltd is the right choice for you.</p>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-44ea1fd e-con-full e-flex e-con e-parent" data-id="44ea1fd" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-46eb638 elementor-widget elementor-widget-heading" data-id="46eb638" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Core Values</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-52b793c e-con-full e-flex e-con e-child" data-id="52b793c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-77c4943 elementor-widget elementor-widget-image" data-id="77c4943" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="1024" height="502" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-25@3x-1024x502.png" class="attachment-large size-large wp-image-95" alt="" srcset="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-25@3x-1024x502.png 1024w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-25@3x-300x147.png 300w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-25@3x-768x377.png 768w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-25@3x-1536x753.png 1536w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-25@3x.png 1957w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9d688dd e-con-full e-flex e-con e-parent" data-id="9d688dd" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-7e2961b elementor-widget elementor-widget-heading" data-id="7e2961b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Our Team</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-eb46b04 e-con-full e-flex e-con e-child" data-id="eb46b04" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-30f8cd5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="30f8cd5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">Our team has a diverse skill set with varying levels of experience and broad industry exposure, allowing us to deliver innovative, efficient, and customized IT solutions. From seasoned professionals with decades of experience to dynamic young talents bringing fresh perspectives, our team is built on a foundation of balance, collaboration, and technical excellence. This diversity not only enriches our problem-solving capabilities but also ensures that we can cater to a wide range of client needs, across different industries and technologies.</p>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6da05d9 e-con-full e-flex e-con e-child" data-id="6da05d9" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-b8bd5cd e-con-full e-flex e-con e-child" data-id="b8bd5cd" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-bb14bd7 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="bb14bd7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Skills Composition of our Engineers: </h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-bbe0ae2 elementor-widget elementor-widget-site-logo" data-id="bbe0ae2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;width&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:74,&quot;sizes&quot;:[]},&quot;align&quot;:&quot;center&quot;,&quot;width_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;caption_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="site-logo.default">
+				<div class="elementor-widget-container">
+							<div class="hfe-site-logo">
+													<a data-elementor-open-lightbox=""  class='elementor-clickable' href="https://hellosuperstar.com">
+							<div class="hfe-site-logo-set">           
+				<div class="hfe-site-logo-container">
+									<img decoding="async" class="hfe-site-logo-img elementor-animation-"  src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-27@3x-768x658.png" alt="Asset 27@3x"/>
+				</div>
+			</div>
+							</a>
+						</div>  
+							</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4489c88 e-con-full e-flex e-con e-child" data-id="4489c88" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ed7af2e elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="ed7af2e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Engineering Team's Experince Level:</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fa9ac4a elementor-widget elementor-widget-site-logo" data-id="fa9ac4a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;width&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:74,&quot;sizes&quot;:[]},&quot;align&quot;:&quot;center&quot;,&quot;width_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;caption_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="site-logo.default">
+				<div class="elementor-widget-container">
+							<div class="hfe-site-logo">
+													<a data-elementor-open-lightbox=""  class='elementor-clickable' href="https://hellosuperstar.com">
+							<div class="hfe-site-logo-set">           
+				<div class="hfe-site-logo-container">
+									<img decoding="async" class="hfe-site-logo-img elementor-animation-"  src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-26@3x.png" alt="Asset 26@3x"/>
+				</div>
+			</div>
+							</a>
+						</div>  
+							</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c7d438d e-con-full e-flex e-con e-parent" data-id="c7d438d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-aa1277c elementor-widget elementor-widget-heading" data-id="aa1277c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Our Services</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-25ea249 e-flex e-con-boxed e-con e-child" data-id="25ea249" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-21d2200 e-con-full e-flex e-con e-child" data-id="21d2200" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-2870a98 e-con-full e-flex e-con e-child" data-id="2870a98" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-2686002 e-con-full e-flex e-con e-child" data-id="2686002" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-26f6af1 icon elementor-widget elementor-widget-image" data-id="26f6af1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="85" height="86" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-33@3x.png" class="attachment-thumbnail size-thumbnail wp-image-39" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-58d0d17 e-con-full e-flex e-con e-child" data-id="58d0d17" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-bbbebf5 elementor-widget elementor-widget-heading" data-id="bbbebf5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Tech  Talent</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c50e92d e-con-full e-flex e-con e-child" data-id="c50e92d" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-e0ba2aa e-con-full e-flex e-con e-child" data-id="e0ba2aa" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d47bc5e icon elementor-widget elementor-widget-image" data-id="d47bc5e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="72" height="87" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-36@3x.png" class="attachment-thumbnail size-thumbnail wp-image-41" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5aa310d e-con-full e-flex e-con e-child" data-id="5aa310d" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4a58ab8 elementor-widget elementor-widget-heading" data-id="4a58ab8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Web Design &amp; Development</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-71b1ae4 e-con-full e-flex e-con e-child" data-id="71b1ae4" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-91ba921 e-con-full e-flex e-con e-child" data-id="91ba921" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-73e4c72 icon elementor-widget elementor-widget-image" data-id="73e4c72" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="91" height="91" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-28@3x.png" class="attachment-thumbnail size-thumbnail wp-image-42" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2368b58 e-con-full e-flex e-con e-child" data-id="2368b58" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7f72ec5 elementor-widget elementor-widget-heading" data-id="7f72ec5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Business Continutity &amp; Recovery Services</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4b01e47 e-con-full e-flex e-con e-child" data-id="4b01e47" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-d595fd2 e-con-full e-flex e-con e-child" data-id="d595fd2" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a5b7287 icon elementor-widget elementor-widget-image" data-id="a5b7287" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="71" height="71" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-38@3x.png" class="attachment-thumbnail size-thumbnail wp-image-43" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-31cde88 e-con-full e-flex e-con e-child" data-id="31cde88" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-348b3d4 elementor-widget elementor-widget-heading" data-id="348b3d4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Technical  SEO and Troubleshooting</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b30d46b e-con-full e-flex e-con e-child" data-id="b30d46b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-f97a7f2 e-con-full e-flex e-con e-child" data-id="f97a7f2" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ed71f54 icon elementor-widget elementor-widget-image" data-id="ed71f54" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="85" height="87" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-29@3x.png" class="attachment-thumbnail size-thumbnail wp-image-44" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c8b257b e-con-full e-flex e-con e-child" data-id="c8b257b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c1b50dc elementor-widget elementor-widget-heading" data-id="c1b50dc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Content Marketing and Strategy</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-846f264 e-con-full e-flex e-con e-child" data-id="846f264" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5b55da0 e-con-full e-flex e-con e-child" data-id="5b55da0" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5cf2ed0 e-con-full e-flex e-con e-child" data-id="5cf2ed0" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-1c41a63 icon elementor-widget elementor-widget-image" data-id="1c41a63" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="77" height="77" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-40@3x.png" class="attachment-thumbnail size-thumbnail wp-image-45" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-54b7e82 e-con-full e-flex e-con e-child" data-id="54b7e82" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-16041ab elementor-widget elementor-widget-heading" data-id="16041ab" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Product Engineering</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f86b117 e-con-full e-flex e-con e-child" data-id="f86b117" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-9ff2dce e-con-full e-flex e-con e-child" data-id="9ff2dce" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6938581 icon elementor-widget elementor-widget-image" data-id="6938581" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="80" height="77" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-34@3x.png" class="attachment-thumbnail size-thumbnail wp-image-46" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-bf81129 e-con-full e-flex e-con e-child" data-id="bf81129" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2ccdf7f elementor-widget elementor-widget-heading" data-id="2ccdf7f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Cybersecurity Services</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-672b9be e-con-full e-flex e-con e-child" data-id="672b9be" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-42f9e61 e-con-full e-flex e-con e-child" data-id="42f9e61" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c9c50bd icon elementor-widget elementor-widget-image" data-id="c9c50bd" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="80" height="81" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-32@3x.png" class="attachment-thumbnail size-thumbnail wp-image-47" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5ce89ba e-con-full e-flex e-con e-child" data-id="5ce89ba" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-17a4a30 elementor-widget elementor-widget-heading" data-id="17a4a30" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Managed Hosting Services</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c97b410 e-con-full e-flex e-con e-child" data-id="c97b410" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-035597b e-con-full e-flex e-con e-child" data-id="035597b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-0e42ad8 icon elementor-widget elementor-widget-image" data-id="0e42ad8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="85" height="85" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-30@3x.png" class="attachment-thumbnail size-thumbnail wp-image-48" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-93cb033 e-con-full e-flex e-con e-child" data-id="93cb033" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-fb9c74c elementor-widget elementor-widget-heading" data-id="fb9c74c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Web Accessibility</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a000adb e-con-full e-flex e-con e-child" data-id="a000adb" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-7d4f335 e-con-full e-flex e-con e-child" data-id="7d4f335" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-9ff95a8 e-con-full e-flex e-con e-child" data-id="9ff95a8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b1385ea icon elementor-widget elementor-widget-image" data-id="b1385ea" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="80" height="80" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-37@3x.png" class="attachment-thumbnail size-thumbnail wp-image-49" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cc75efc e-con-full e-flex e-con e-child" data-id="cc75efc" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-dce8354 elementor-widget elementor-widget-heading" data-id="dce8354" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Mobile Applications</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-caf3edb e-con-full e-flex e-con e-child" data-id="caf3edb" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-ce9119b e-con-full e-flex e-con e-child" data-id="ce9119b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e75021c icon elementor-widget elementor-widget-image" data-id="e75021c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="77" height="77" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-31@3x.png" class="attachment-thumbnail size-thumbnail wp-image-50" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-78a09ea e-con-full e-flex e-con e-child" data-id="78a09ea" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8cb3262 elementor-widget elementor-widget-heading" data-id="8cb3262" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">AI Constultation</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4455e96 e-con-full e-flex e-con e-child" data-id="4455e96" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-f093a27 e-con-full e-flex e-con e-child" data-id="f093a27" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-907ed44 icon elementor-widget elementor-widget-image" data-id="907ed44" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="74" height="72" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-39@3x.png" class="attachment-thumbnail size-thumbnail wp-image-51" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5c478a7 e-con-full e-flex e-con e-child" data-id="5c478a7" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-89618e8 elementor-widget elementor-widget-heading" data-id="89618e8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Page Speed Optimization</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1c0b759 e-con-full e-flex e-con e-child" data-id="1c0b759" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-ffd958d e-con-full e-flex e-con e-child" data-id="ffd958d" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4d4a215 icon elementor-widget elementor-widget-image" data-id="4d4a215" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="90" height="90" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-35@3x.png" class="attachment-thumbnail size-thumbnail wp-image-52" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c53204e e-con-full e-flex e-con e-child" data-id="c53204e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-0057d71 elementor-widget elementor-widget-heading" data-id="0057d71" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Brand Identity &amp; Graphic Design</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-43bcab0b e-flex e-con-boxed e-con e-parent" data-id="43bcab0b" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6a228d02 e-con-full e-flex e-con e-child" data-id="6a228d02" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-1658ccd e-con-full e-flex e-con e-child" data-id="1658ccd" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3c4cab24 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="3c4cab24" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">Our Client</p>				</div>
+				</div>
+				<div class="elementor-element elementor-element-571dc337 elementor-widget elementor-widget-heading" data-id="571dc337" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">We are deeply committed to serving our clients with unwavering dedication and professionalism. We understand that in the fast-paced digital world, meeting deadlines is not just a goal—it’s a responsibility. That’s why we prioritize timely delivery in every project, ensuring our clients can rely on us to move their businesses forward without delay. Beyond technical excellence, we value the trust our clients place in us. We recognize that every project represents more than just a business need—it reflects their vision, emotion, and time. By combining cutting-edge technology with a client-centric approach, we strive to build lasting relationships founded on respect, transparency, and results.
+</p>				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-70c55741 elementor-widget elementor-widget-image" data-id="70c55741" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="636" height="1024" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x-636x1024.png" class="attachment-large size-large wp-image-72" alt="" srcset="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x-636x1024.png 636w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x-186x300.png 186w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x-768x1236.png 768w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x-954x1536.png 954w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-7@3x.png 1110w" sizes="(max-width: 636px) 100vw, 636px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-812f934 e-con-full e-flex e-con e-parent" data-id="812f934" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-2d1f915 elementor-widget elementor-widget-heading" data-id="2d1f915" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Work with us
+</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-ef11e28 e-flex e-con-boxed e-con e-child" data-id="ef11e28" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9762d4a e-con-full e-flex e-con e-child" data-id="9762d4a" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-568d2c5 e-con-full e-flex e-con e-child" data-id="568d2c5" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-b3c2d8e e-con-full e-flex e-con e-child" data-id="b3c2d8e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6ef9771 icon elementor-widget elementor-widget-image" data-id="6ef9771" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="85" height="86" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-33@3x.png" class="attachment-thumbnail size-thumbnail wp-image-39" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-51bd031 e-con-full e-flex e-con e-child" data-id="51bd031" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7158d69 elementor-widget elementor-widget-heading" data-id="7158d69" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Project-based:</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-868cb67 elementor-widget elementor-widget-heading" data-id="868cb67" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">We will set up a couple of calls and scope the project with you. Once done, we will get back to you with a fixed price bid and a shedule for relevant deliverables. This mostly works well for small projects with fleshed-out requirements.</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b422ac4 e-con-full e-flex e-con e-child" data-id="b422ac4" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-df2eb66 e-con-full e-flex e-con e-child" data-id="df2eb66" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-eeb5ef0 icon elementor-widget elementor-widget-image" data-id="eeb5ef0" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="74" height="72" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-39@3x.png" class="attachment-thumbnail size-thumbnail wp-image-51" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-84f1296 e-con-full e-flex e-con e-child" data-id="84f1296" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-26a1669 elementor-widget elementor-widget-heading" data-id="26a1669" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Hourly:</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-73b0bba elementor-widget elementor-widget-heading" data-id="73b0bba" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">For product development with inherent uncertainty and evolving requirements, we suggest an hourly model. We only scope the next few sprints and you are billed by the number of hours spent by the team on your project. </h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7237bf7 e-con-full e-flex e-con e-child" data-id="7237bf7" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-e448fc5 e-con-full e-flex e-con e-child" data-id="e448fc5" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ea775af icon elementor-widget elementor-widget-image" data-id="ea775af" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="80" height="77" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-34@3x.png" class="attachment-thumbnail size-thumbnail wp-image-46" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c4f2a59 e-con-full e-flex e-con e-child" data-id="c4f2a59" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d4a3edf elementor-widget elementor-widget-heading" data-id="d4a3edf" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dedicated:</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8341e32 elementor-widget elementor-widget-heading" data-id="8341e32" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">If you are looking for a maintenance team or someone to manage day-today operations, this is the most cost-effective option for you. Hire part-time or full-time dedicated talent and get billed for them monthly.</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a38bd09 e-con-full e-flex e-con e-child" data-id="a38bd09" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7139d1b elementor-widget elementor-widget-image" data-id="7139d1b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="901" height="1024" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-6@3x-1-901x1024.png" class="attachment-large size-large wp-image-78" alt="" srcset="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-6@3x-1-901x1024.png 901w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-6@3x-1-264x300.png 264w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-6@3x-1-768x873.png 768w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-6@3x-1.png 948w" sizes="(max-width: 901px) 100vw, 901px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1a08019 e-flex e-con-boxed e-con e-child" data-id="1a08019" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-02bc092 e-con-full e-flex e-con e-child" data-id="02bc092" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6c69e76 elementor-widget elementor-widget-image" data-id="6c69e76" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="902" height="1024" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-5@3x-902x1024.png" class="attachment-large size-large wp-image-79" alt="" srcset="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-5@3x-902x1024.png 902w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-5@3x-264x300.png 264w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-5@3x-768x872.png 768w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-5@3x.png 944w" sizes="(max-width: 902px) 100vw, 902px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-80eb034 e-con-full e-flex e-con e-child" data-id="80eb034" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-0e9a912 e-con-full e-flex e-con e-child" data-id="0e9a912" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-590309a e-con-full e-flex e-con e-child" data-id="590309a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-dc37c71 icon elementor-widget elementor-widget-image" data-id="dc37c71" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="85" height="87" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-29@3x.png" class="attachment-thumbnail size-thumbnail wp-image-44" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3d78197 e-con-full e-flex e-con e-child" data-id="3d78197" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6fa83f1 elementor-widget elementor-widget-heading" data-id="6fa83f1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Become a referral partner: </h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a0540be elementor-widget elementor-widget-heading" data-id="a0540be" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Write a warm introduction for us to a client and get 10% of the revenue earned from that client for the lifetime. Learn about our referral program here.</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ad3eccc e-con-full e-flex e-con e-child" data-id="ad3eccc" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-424e6c9 e-con-full e-flex e-con e-child" data-id="424e6c9" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-dc44546 icon elementor-widget elementor-widget-image" data-id="dc44546" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="80" height="80" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-37@3x.png" class="attachment-thumbnail size-thumbnail wp-image-49" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-26e7217 e-con-full e-flex e-con e-child" data-id="26e7217" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-acf7aaa elementor-widget elementor-widget-heading" data-id="acf7aaa" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Become a consortium partner:</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b69af07 elementor-widget elementor-widget-heading" data-id="b69af07" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">If you want to bid for a project and are looking for a consortium partner for technology services, reach out and we will be happy to submit the bid and excute the project alongside you.</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-fb29e51 e-flex e-con-boxed e-con e-child" data-id="fb29e51" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-65a9922 e-con-full e-flex e-con e-child" data-id="65a9922" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-d97a65b e-con-full e-flex e-con e-child" data-id="d97a65b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-39cbf10 e-con-full e-flex e-con e-child" data-id="39cbf10" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-1cdd4e2 elementor-widget elementor-widget-heading" data-id="1cdd4e2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Connect With Us</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-348e9e7 e-con-full e-flex e-con e-child" data-id="348e9e7" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-9d305f3 elementor-position-inline-start elementor-widget__width-inherit elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="9d305f3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-globe" viewBox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><path d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							www.hellosuperstar.com						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-529a593 elementor-position-inline-start elementor-widget__width-inherit elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="529a593" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-mail-bulk" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M160 448c-25.6 0-51.2-22.4-64-32-64-44.8-83.2-60.8-96-70.4V480c0 17.67 14.33 32 32 32h256c17.67 0 32-14.33 32-32V345.6c-12.8 9.6-32 25.6-96 70.4-12.8 9.6-38.4 32-64 32zm128-192H32c-17.67 0-32 14.33-32 32v16c25.6 19.2 22.4 19.2 115.2 86.4 9.6 6.4 28.8 25.6 44.8 25.6s35.2-19.2 44.8-22.4c92.8-67.2 89.6-67.2 115.2-86.4V288c0-17.67-14.33-32-32-32zm256-96H224c-17.67 0-32 14.33-32 32v32h96c33.21 0 60.59 25.42 63.71 57.82l.29-.22V416h192c17.67 0 32-14.33 32-32V192c0-17.67-14.33-32-32-32zm-32 128h-64v-64h64v64zm-352-96c0-35.29 28.71-64 64-64h224V32c0-17.67-14.33-32-32-32H96C78.33 0 64 14.33 64 32v192h96v-32z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							info@hellosuperstar.com						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4a9e94e elementor-position-inline-start elementor-widget__width-inherit elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="4a9e94e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							linkedin.com/company/hellosuperstar						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a867a85 elementor-position-inline-start elementor-widget__width-inherit elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="a867a85" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Level#9
+plot# 11, Road#113/A
+Gulshan-2
+Dhaka-1212, Bangladesh						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-edc2252 elementor-position-inline-start elementor-widget__width-inherit elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="edc2252" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-volume" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							02-55049675-6						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-506723d elementor-position-inline-start elementor-widget__width-inherit elementor-mobile-position-inline-start elementor-view-default elementor-widget elementor-widget-icon-box" data-id="506723d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-volume" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							+880-01871 006622						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-12e9784 e-con-full e-flex e-con e-child" data-id="12e9784" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6524a51 elementor-widget elementor-widget-image" data-id="6524a51" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="354" height="477" src="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-2@3x-1.png" class="attachment-large size-large wp-image-90" alt="" srcset="https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-2@3x-1.png 354w, https://hellosuperstar.com/wp-content/uploads/2025/04/Asset-2@3x-1-223x300.png 223w" sizes="(max-width: 354px) 100vw, 354px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		
+	</main><!-- #main -->
+
+	
+	
+	
+				<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="129" class="elementor elementor-129">
+				<div class="elementor-element elementor-element-47ab058 e-flex e-con-boxed e-con e-parent" data-id="47ab058" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c26e0b1 elementor-widget elementor-widget-heading" data-id="c26e0b1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Copyright 2025 © hellosuperstars ltd.</h2>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div>		</footer>
+	
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/oceanwp/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script id="elementor-webpack-runtime-js" src="https://hellosuperstar.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.3"></script>
+<script id="elementor-frontend-modules-js" src="https://hellosuperstar.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.3"></script>
+<script id="jquery-ui-core-js" src="https://hellosuperstar.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.3","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/hellosuperstar.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/hellosuperstar.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/hellosuperstar.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"0cdf8fee89","atomicFormsSendForm":"9faf1dcb96"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":24,"title":"Hello%20Superstar%20%E2%80%93%20Hello%20superstar","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://hellosuperstar.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.3"></script>
+<script id="imagesloaded-js" src="https://hellosuperstar.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"8c29461025","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","loadMoreLoadingText":"Loading..."};
+//# sourceURL=oceanwp-main-js-extra
+</script>
+<script id="oceanwp-main-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.1.0"></script>
+<script id="oceanwp-drop-down-mobile-menu-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.1.0"></script>
+<script id="oceanwp-drop-down-search-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.1.0"></script>
+<script id="ow-magnific-popup-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.1.0"></script>
+<script id="oceanwp-lightbox-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.1.0"></script>
+<script id="ow-flickity-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.1.0"></script>
+<script id="oceanwp-slider-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.1.0"></script>
+<script id="oceanwp-scroll-effect-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.1.0"></script>
+<script id="oceanwp-scroll-top-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.1.0"></script>
+<script id="oceanwp-select-js" src="https://hellosuperstar.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.1.0"></script>
+<script id="hfe-frontend-js-js" src="https://hellosuperstar.com/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=2.4.1"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://hellosuperstar.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0.2"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://hellosuperstar.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body>
+</html>
