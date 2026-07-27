@@ -30,7 +30,7 @@
             
             <div class="contact-item">
                 <i class="fas fa-phone-alt"></i>
-                <span>+880-01871 006622</span>
+                <span>+8801871-006622</span>
             </div>
         </div>
         
